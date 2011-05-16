@@ -1,0 +1,165 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = EF2AA1F71369B5CA007F1618 /* UISpec */;
+		activeTarget = 255B7588133BABBF00ED76AD /* RestKit */;
+		codeSenseManager = EF2AA21D1369B5E8007F1618 /* Code sense */;
+		executables = (
+			EF2AA1F71369B5CA007F1618 /* UISpec */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 325694922;
+			PBXWorkspaceStateSaveDate = 325694922;
+		};
+		perUserProjectItems = {
+			EF2AA22B1369B74A007F1618 /* PBXBookmark */ = EF2AA22B1369B74A007F1618 /* PBXBookmark */;
+			EF2AA22C1369B74A007F1618 /* PBXTextBookmark */ = EF2AA22C1369B74A007F1618 /* PBXTextBookmark */;
+		};
+		sourceControlManager = EF2AA21C1369B5E8007F1618 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2523360411E79F090048F9B4 /* RestKitThree20 */ = {
+		activeExec = 0;
+	};
+	253A07FB1255161B00976E89 /* RestKitNetwork */ = {
+		activeExec = 0;
+	};
+	253A08021255162C00976E89 /* RestKitObjectMapping */ = {
+		activeExec = 0;
+	};
+	253A080B12551D3000976E89 /* RestKitSupport */ = {
+		activeExec = 0;
+	};
+	253A081312551D5300976E89 /* RestKitCoreData */ = {
+		activeExec = 0;
+	};
+	253A089212551D8D00976E89 /* RestKit.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 227}";
+		};
+	};
+	255B7588133BABBF00ED76AD /* RestKit */ = {
+		activeExec = 0;
+	};
+	2590E64E125231F600531FA8 /* RestKitJSONParser+YAJL */ = {
+		activeExec = 0;
+	};
+	2590E66A1252353700531FA8 /* RestKitJSONParser+SBJSON */ = {
+		activeExec = 0;
+	};
+	259DF7791340290600233DF4 /* RestKitXMLParser+Libxml */ = {
+		activeExec = 0;
+	};
+	3F6C39A410FE5C95008F47C5 /* UISpec */ = {
+		activeExec = 0;
+		executables = (
+			EF2AA1F71369B5CA007F1618 /* UISpec */,
+		);
+	};
+	73057FD01331AD2E001908EE /* RestKitJSONParser+JSONKit */ = {
+		activeExec = 0;
+	};
+	EF2AA1F71369B5CA007F1618 /* UISpec */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = UISpec;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	EF2AA21C1369B5E8007F1618 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	EF2AA21D1369B5E8007F1618 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	EF2AA22B1369B74A007F1618 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 253A089212551D8D00976E89 /* RestKit.h */;
+	};
+	EF2AA22C1369B74A007F1618 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 253A089212551D8D00976E89 /* RestKit.h */;
+		name = "RestKit.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 227;
+		vrLoc = 0;
+	};
+}

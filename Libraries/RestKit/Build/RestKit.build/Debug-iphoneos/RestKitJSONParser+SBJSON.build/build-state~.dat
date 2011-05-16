@@ -1,0 +1,327 @@
+TRestKitJSONParser+SBJSON
+v7
+r0
+t325695073.623413
+cCheck dependencies
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/JSON.h Vendor/SBJSON/JSON.h
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/NSObject+SBJSON.h Vendor/SBJSON/NSObject+SBJSON.h
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/NSString+SBJSON.h Vendor/SBJSON/NSString+SBJSON.h
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/SBJsonBase.h Vendor/SBJSON/SBJsonBase.h
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/SBJsonParser.h Vendor/SBJSON/SBJsonParser.h
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/SBJsonWriter.h Vendor/SBJSON/SBJsonWriter.h
+cCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/NSObject+SBJSON.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/NSString+SBJSON.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/SBJsonBase.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/SBJsonParser.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/SBJsonWriter.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/RKJSONParser+SBJSON.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/libRestKitJSONParserSBJSON.a normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/JSON.h
+t1304002273
+s2757
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/NSObject+SBJSON.h
+t1304002273
+s2143
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/NSString+SBJSON.h
+t1304002273
+s2032
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/SBJsonBase.h
+t1304002273
+s2946
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/SBJsonParser.h
+t1304002273
+s3215
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/SBJsonWriter.h
+t1304002273
+s4569
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/libRestKitJSONParserSBJSON.a
+t1304002273
+s102304
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/NSObject+SBJSON.o
+t1304002273
+s7440
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/NSString+SBJSON.o
+t1304002273
+s7332
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/RKJSONParser+SBJSON.o
+t1304002273
+s9180
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/RestKitJSONParserSBJSON.LinkFileList
+c000000004DB97EE000000000000003DD
+t1304002272
+s989
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/SBJsonBase.o
+t1304002273
+s13260
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/SBJsonParser.o
+t1304002273
+s36964
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/SBJsonWriter.o
+t1304002273
+s26708
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m
+c000000004D99D4AE00000000000002EB
+t1301927086
+s747
+i"RKJSONParser.h"
+i"SBJsonParser.h"
+i"NSObject+SBJSON.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/RKJSONParser.h
+c000000004D99D4AE00000000000000E2
+t1301927086
+s226
+i"RKParser.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RKParser.h
+c000000004D99D4AE000000000000024A
+t1301927086
+s586
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch
+c000000004D99D4AE00000000000000BC
+t1301927086
+s188
+i<Foundation/Foundation.h>
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/JSON.h
+c000000004D99D4AE0000000000000AC5
+t1301927086
+s2757
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/NSObject+SBJSON.h
+c000000004D99D4AE000000000000085F
+t1301927086
+s2143
+i<Foundation/Foundation.h>
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/NSObject+SBJSON.m
+c000000004D99D4AE000000000000077D
+t1301927086
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/NSString+SBJSON.h
+c000000004D99D4AE00000000000007F0
+t1301927086
+s2032
+i<Foundation/Foundation.h>
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/NSString+SBJSON.m
+c000000004D99D4AE000000000000075D
+t1301927086
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonBase.h
+c000000004D99D4AE0000000000000B82
+t1301927086
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonBase.m
+c000000004D99D4AE0000000000000AC1
+t1301927086
+s2753
+i"SBJsonBase.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonParser.h
+c000000004D99D4AE0000000000000C8F
+t1301927086
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonParser.m
+c000000004D99D4AE0000000000003B7A
+t1301927086
+s15226
+i"SBJsonParser.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonWriter.h
+c000000004D99D4AE00000000000011D9
+t1301927086
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonWriter.m
+c000000004D99D4AE000000000000206D
+t1301927086
+s8301
+i"SBJsonWriter.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies325695072#325695073#0(0"0(0#1#0"8619945536#0"0#
+
+CCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/NSObject+SBJSON.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325695073.028484
+e325695073.213718
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/NSObject+SBJSON.m325695073#325695073#0(0"0(0#0#86"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/NSObject+SBJSON.m8621993024#2215"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-generated-files.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-own-target-headers.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-all-target-headers.hmap -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-project-headers.hmap -F/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/DerivedSources/i386 -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/DerivedSources -include /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch -c /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/NSObject+SBJSON.m -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/NSString+SBJSON.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325695073.029455
+e325695073.203352
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/NSString+SBJSON.m325695073#325695073#0(0"0(0#0#86"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/NSString+SBJSON.m8620103616#2215"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-generated-files.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-own-target-headers.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-all-target-headers.hmap -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-project-headers.hmap -F/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/DerivedSources/i386 -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/DerivedSources -include /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch -c /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/NSString+SBJSON.m -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/RKJSONParser+SBJSON.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325695073.451278
+e325695073.613020
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/RKJSONParser+SBJSON.o
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m325695073#325695073#0(0"0(0#0#102"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m8623241696#2235"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-generated-files.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-own-target-headers.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-all-target-headers.hmap -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-project-headers.hmap -F/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/DerivedSources/i386 -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/DerivedSources -include /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch -c /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/RKJSONParser+SBJSON.o0#
+
+CCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/SBJsonBase.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325695073.203566
+e325695073.379898
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/SBJsonBase.o
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonBase.m325695073#325695073#0(0"0(0#0#81"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonBase.m8625494304#2205"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-generated-files.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-own-target-headers.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-all-target-headers.hmap -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-project-headers.hmap -F/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/DerivedSources/i386 -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/DerivedSources -include /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch -c /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonBase.m -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/SBJsonParser.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325695073.213824
+e325695073.451176
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/SBJsonParser.o
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonParser.m325695073#325695073#0(0"0(0#0#83"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonParser.m8621149056#2209"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-generated-files.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-own-target-headers.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-all-target-headers.hmap -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-project-headers.hmap -F/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/DerivedSources/i386 -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/DerivedSources -include /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch -c /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonParser.m -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/SBJsonWriter.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325695073.380006
+e325695073.596974
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonWriter.m325695073#325695073#0(0"0(0#0#83"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonWriter.m8614184896#2209"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-generated-files.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-own-target-headers.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-all-target-headers.hmap -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-project-headers.hmap -F/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/DerivedSources/i386 -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/DerivedSources -include /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch -c /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonWriter.m -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/JSON.h Vendor/SBJSON/JSON.h
+s325695073.006332
+e325695073.025826
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/JSON.h
+xVendor/SBJSON/JSON.h
+lSLF07#2@25"Copy Vendor/SBJSON/JSON.h325695073#325695073#0(0"0(0#0#75"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/JSON.h8645052320#550"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/JSON.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/NSObject+SBJSON.h Vendor/SBJSON/NSObject+SBJSON.h
+s325695073.009712
+e325695073.025951
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/NSObject+SBJSON.h
+xVendor/SBJSON/NSObject+SBJSON.h
+lSLF07#2@36"Copy Vendor/SBJSON/NSObject+SBJSON.h325695073#325695073#0(0"0(0#0#86"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/NSObject+SBJSON.h8641574304#561"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/NSObject+SBJSON.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/NSString+SBJSON.h Vendor/SBJSON/NSString+SBJSON.h
+s325695073.010739
+e325695073.026065
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/NSString+SBJSON.h
+xVendor/SBJSON/NSString+SBJSON.h
+lSLF07#2@36"Copy Vendor/SBJSON/NSString+SBJSON.h325695073#325695073#0(0"0(0#0#86"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/NSString+SBJSON.h8636489920#561"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/NSString+SBJSON.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/SBJsonBase.h Vendor/SBJSON/SBJsonBase.h
+s325695073.016650
+e325695073.026174
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/SBJsonBase.h
+xVendor/SBJSON/SBJsonBase.h
+lSLF07#2@31"Copy Vendor/SBJSON/SBJsonBase.h325695073#325695073#0(0"0(0#0#81"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonBase.h8632215424#556"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonBase.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/SBJsonParser.h Vendor/SBJSON/SBJsonParser.h
+s325695073.019977
+e325695073.026285
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/SBJsonParser.h
+xVendor/SBJSON/SBJsonParser.h
+lSLF07#2@33"Copy Vendor/SBJSON/SBJsonParser.h325695073#325695073#0(0"0(0#0#83"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonParser.h8628481856#558"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonParser.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/SBJsonWriter.h Vendor/SBJSON/SBJsonWriter.h
+s325695073.020965
+e325695073.028396
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON/SBJsonWriter.h
+xVendor/SBJSON/SBJsonWriter.h
+lSLF07#2@33"Copy Vendor/SBJSON/SBJsonWriter.h325695073#325695073#0(0"0(0#0#83"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonWriter.h8625640160#558"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Vendor/SBJSON/SBJsonWriter.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support/JSON/SBJSON0#
+
+CLibtool /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/libRestKitJSONParserSBJSON.a normal i386
+s325695073.613132
+e325695073.623362
+r1
+xLibtool
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/libRestKitJSONParserSBJSON.a
+xnormal
+xi386
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@76"Libtool Build/Debug-iphonesimulator/libRestKitJSONParserSBJSON.a normal i386325695073#325695073#0(136"/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8625484064#831"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -filelist /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitJSONParser+SBJSON.build/Objects-normal/i386/RestKitJSONParserSBJSON.LinkFileList -ObjC -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/libRestKitJSONParserSBJSON.a0#
+

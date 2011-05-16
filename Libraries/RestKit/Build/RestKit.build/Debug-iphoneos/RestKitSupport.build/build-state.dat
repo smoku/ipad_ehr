@@ -1,0 +1,553 @@
+TRestKitSupport
+v7
+r0
+t325695071.646177
+cCheck dependencies
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/Errors.h Code/Support/Errors.h
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/NSDictionary+RKAdditions.h Code/Support/NSDictionary+RKAdditions.h
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/NSObject+RKJSONSerialization.h Code/Support/NSObject+RKJSONSerialization.h
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/NSString+InflectionSupport.h Code/Support/NSString+InflectionSupport.h
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/RKSearchEngine.h Code/Support/RKSearchEngine.h
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/RKParser.h Code/Support/RKParser.h
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/RKJSONParser.h Code/Support/Parsers/RKJSONParser.h
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/RKXMLParser.h Code/Support/Parsers/RKXMLParser.h
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/Support.h Code/Support/Support.h
+cCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/Objects-normal/i386/Errors.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Errors.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/Objects-normal/i386/NSDictionary+RKAdditions.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSDictionary+RKAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/Objects-normal/i386/NSString+InflectionSupport.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSString+InflectionSupport.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/Objects-normal/i386/RKSearchEngine.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RKSearchEngine.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/libRestKitSupport.a normal i386
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D7401890000000000000110
+t1299448201
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/include/RestKit/Support/Errors.h
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/include/RestKit/Support/NSDictionary+RKAdditions.h
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/include/RestKit/Support/NSObject+RKJSONSerialization.h
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/include/RestKit/Support/NSString+InflectionSupport.h
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/include/RestKit/Support/RKJSONParser.h
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/include/RestKit/Support/RKParser.h
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/include/RestKit/Support/RKSearchEngine.h
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/include/RestKit/Support/RKXMLParser.h
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/include/RestKit/Support/Support.h
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/libRestKitSupport.a
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitSupport.build/Objects-normal/armv6/Errors.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitSupport.build/Objects-normal/armv6/NSDictionary+RKAdditions.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitSupport.build/Objects-normal/armv6/NSString+InflectionSupport.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitSupport.build/Objects-normal/armv6/RKSearchEngine.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitSupport.build/Objects-normal/armv6/RestKitSupport.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitSupport.build/Objects-normal/armv6/libRestKitSupport.a
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitSupport.build/Objects-normal/armv7/Errors.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitSupport.build/Objects-normal/armv7/NSDictionary+RKAdditions.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitSupport.build/Objects-normal/armv7/NSString+InflectionSupport.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitSupport.build/Objects-normal/armv7/RKSearchEngine.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitSupport.build/Objects-normal/armv7/RestKitSupport.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitSupport.build/Objects-normal/armv7/libRestKitSupport.a
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/Errors.h
+c000000004D99D4AE0000000000000146
+t1301927086
+s326
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/Errors.m
+c000000004D99D4AE00000000000000E5
+t1301927086
+s229
+i"Errors.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/NSDictionary+RKAdditions.h
+c000000004D99D4AE0000000000000234
+t1301927086
+s564
+i<Foundation/Foundation.h>
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/NSDictionary+RKAdditions.m
+c000000004D99D4AE00000000000002AA
+t1301927086
+s682
+i"NSDictionary+RKAdditions.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/NSObject+RKJSONSerialization.h
+c000000004D99D4AE00000000000001AD
+t1301927086
+s429
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/NSString+InflectionSupport.h
+c000000004D99D4AE0000000000000378
+t1301927086
+s888
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/NSString+InflectionSupport.m
+c000000004D99D4AE00000000000009E5
+t1301927086
+s2533
+i"NSString+InflectionSupport.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/Parsers/RKJSONParser.h
+c000000004D99D4AE00000000000000E2
+t1301927086
+s226
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/Parsers/RKXMLParser.h
+c000000004D99D4AE0000000000000263
+t1301927086
+s611
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/RKParser.h
+c000000004D99D4AE000000000000024A
+t1301927086
+s586
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/RKSearchEngine.h
+c000000004D99D4AE0000000000000775
+t1301927086
+s1909
+i<Foundation/Foundation.h>
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/RKSearchEngine.m
+c000000004D99D4AE0000000000000C30
+t1301927086
+s3120
+i"RKSearchEngine.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/RestKit_Prefix.pch
+c000000004D99D4AE00000000000000BC
+t1301927086
+s188
+i<Foundation/Foundation.h>
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/Support.h
+c000000004D99D4AE00000000000000BB
+t1301927086
+s187
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support/Errors.h
+t1304002271
+s326
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support/NSDictionary+RKAdditions.h
+t1304002271
+s564
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support/NSObject+RKJSONSerialization.h
+t1304002271
+s429
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support/NSString+InflectionSupport.h
+t1304002271
+s888
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support/RKJSONParser.h
+t1304002271
+s226
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support/RKParser.h
+t1304002271
+s586
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support/RKSearchEngine.h
+t1304002271
+s1909
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support/RKXMLParser.h
+t1304002271
+s611
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support/Support.h
+t1304002271
+s187
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/libRestKitSupport.a
+t1304002271
+s48152
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/Objects-normal/i386/Errors.o
+t1304002271
+s4920
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/Objects-normal/i386/NSDictionary+RKAdditions.o
+t1304002271
+s7472
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/Objects-normal/i386/NSString+InflectionSupport.o
+t1304002271
+s15180
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/Objects-normal/i386/RKSearchEngine.o
+t1304002271
+s19780
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/Objects-normal/i386/RestKitSupport.LinkFileList
+c000000004DB97EDF000000000000027A
+t1304002271
+s634
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Errors.h
+c000000004D99D4AE0000000000000146
+t1301927086
+s326
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Errors.m
+c000000004D99D4AE00000000000000E5
+t1301927086
+s229
+i"Errors.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSDictionary+RKAdditions.h
+c000000004D99D4AE0000000000000234
+t1301927086
+s564
+i<Foundation/Foundation.h>
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSDictionary+RKAdditions.m
+c000000004D99D4AE00000000000002AA
+t1301927086
+s682
+i"NSDictionary+RKAdditions.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSObject+RKJSONSerialization.h
+c000000004D99D4AE00000000000001AD
+t1301927086
+s429
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSString+InflectionSupport.h
+c000000004D99D4AE0000000000000378
+t1301927086
+s888
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSString+InflectionSupport.m
+c000000004D99D4AE00000000000009E5
+t1301927086
+s2533
+i"NSString+InflectionSupport.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/RKJSONParser.h
+c000000004D99D4AE00000000000000E2
+t1301927086
+s226
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/RKXMLParser.h
+c000000004D99D4AE0000000000000263
+t1301927086
+s611
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RKParser.h
+c000000004D99D4AE000000000000024A
+t1301927086
+s586
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RKSearchEngine.h
+c000000004D99D4AE0000000000000775
+t1301927086
+s1909
+i<Foundation/Foundation.h>
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RKSearchEngine.m
+c000000004D99D4AE0000000000000C30
+t1301927086
+s3120
+i"RKSearchEngine.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch
+c000000004D99D4AE00000000000000BC
+t1301927086
+s188
+i<Foundation/Foundation.h>
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Support.h
+c000000004D99D4AE00000000000000BB
+t1301927086
+s187
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies325695071#325695071#0(0"0(0#1#0"8623277536#0"0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitSupport.build/Objects-normal/armv6/Errors.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/Errors.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitSupport.build/Objects-normal/armv6/NSDictionary+RKAdditions.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/NSDictionary+RKAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitSupport.build/Objects-normal/armv6/NSString+InflectionSupport.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/NSString+InflectionSupport.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitSupport.build/Objects-normal/armv6/RKSearchEngine.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/RKSearchEngine.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitSupport.build/Objects-normal/armv7/Errors.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/Errors.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitSupport.build/Objects-normal/armv7/NSDictionary+RKAdditions.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/NSDictionary+RKAdditions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitSupport.build/Objects-normal/armv7/NSString+InflectionSupport.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/NSString+InflectionSupport.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitSupport.build/Objects-normal/armv7/RKSearchEngine.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/RKSearchEngine.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/Objects-normal/i386/Errors.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Errors.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325695071.267888
+e325695071.434600
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/Objects-normal/i386/Errors.o
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Errors.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Errors.m325695071#325695071#0(0"0(0#0#76"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Errors.m8630320128#2090"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/RestKitSupport-generated-files.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/RestKitSupport-own-target-headers.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/RestKitSupport-all-target-headers.hmap -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/RestKitSupport-project-headers.hmap -F/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/DerivedSources/i386 -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/DerivedSources -include /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch -c /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Errors.m -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/Objects-normal/i386/Errors.o0#
+
+CCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/Objects-normal/i386/NSDictionary+RKAdditions.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSDictionary+RKAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325695071.271129
+e325695071.443912
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/Objects-normal/i386/NSDictionary+RKAdditions.o
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSDictionary+RKAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSDictionary+RKAdditions.m325695071#325695071#0(0"0(0#0#94"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSDictionary+RKAdditions.m8628480448#2126"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/RestKitSupport-generated-files.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/RestKitSupport-own-target-headers.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/RestKitSupport-all-target-headers.hmap -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/RestKitSupport-project-headers.hmap -F/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/DerivedSources/i386 -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/DerivedSources -include /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch -c /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSDictionary+RKAdditions.m -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/Objects-normal/i386/NSDictionary+RKAdditions.o0#
+
+CCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/Objects-normal/i386/NSString+InflectionSupport.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSString+InflectionSupport.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325695071.434718
+e325695071.627840
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/Objects-normal/i386/NSString+InflectionSupport.o
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSString+InflectionSupport.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSString+InflectionSupport.m325695071#325695071#0(0"0(0#0#96"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSString+InflectionSupport.m8604227232#2130"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/RestKitSupport-generated-files.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/RestKitSupport-own-target-headers.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/RestKitSupport-all-target-headers.hmap -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/RestKitSupport-project-headers.hmap -F/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/DerivedSources/i386 -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/DerivedSources -include /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch -c /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSString+InflectionSupport.m -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/Objects-normal/i386/NSString+InflectionSupport.o0#
+
+CCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/Objects-normal/i386/RKSearchEngine.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RKSearchEngine.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325695071.444018
+e325695071.636269
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/Objects-normal/i386/RKSearchEngine.o
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RKSearchEngine.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RKSearchEngine.m325695071#325695071#0(0"0(0#0#84"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RKSearchEngine.m8623224480#2106"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/RestKitSupport-generated-files.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/RestKitSupport-own-target-headers.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/RestKitSupport-all-target-headers.hmap -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/RestKitSupport-project-headers.hmap -F/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/DerivedSources/i386 -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/DerivedSources -include /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch -c /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RKSearchEngine.m -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/Objects-normal/i386/RKSearchEngine.o0#
+
+CCpHeader Build/Debug-iphoneos/include/RestKit/Support/Errors.h Code/Support/Errors.h
+r0
+
+CCpHeader Build/Debug-iphoneos/include/RestKit/Support/NSDictionary+RKAdditions.h Code/Support/NSDictionary+RKAdditions.h
+r0
+
+CCpHeader Build/Debug-iphoneos/include/RestKit/Support/NSObject+RKJSONSerialization.h Code/Support/NSObject+RKJSONSerialization.h
+r0
+
+CCpHeader Build/Debug-iphoneos/include/RestKit/Support/NSString+InflectionSupport.h Code/Support/NSString+InflectionSupport.h
+r0
+
+CCpHeader Build/Debug-iphoneos/include/RestKit/Support/RKJSONParser.h Code/Support/Parsers/RKJSONParser.h
+r0
+
+CCpHeader Build/Debug-iphoneos/include/RestKit/Support/RKParser.h Code/Support/RKParser.h
+r0
+
+CCpHeader Build/Debug-iphoneos/include/RestKit/Support/RKSearchEngine.h Code/Support/RKSearchEngine.h
+r0
+
+CCpHeader Build/Debug-iphoneos/include/RestKit/Support/RKXMLParser.h Code/Support/Parsers/RKXMLParser.h
+r0
+
+CCpHeader Build/Debug-iphoneos/include/RestKit/Support/Support.h Code/Support/Support.h
+r0
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/Errors.h Code/Support/Errors.h
+s325695071.227344
+e325695071.258037
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/Support/Errors.h
+xCode/Support/Errors.h
+lSLF07#2@26"Copy Code/Support/Errors.h325695071#325695071#0(0"0(0#0#76"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Errors.h8619926784#539"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Errors.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/NSDictionary+RKAdditions.h Code/Support/NSDictionary+RKAdditions.h
+s325695071.228232
+e325695071.258160
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/Support/NSDictionary+RKAdditions.h
+xCode/Support/NSDictionary+RKAdditions.h
+lSLF07#2@44"Copy Code/Support/NSDictionary+RKAdditions.h325695071#325695071#0(0"0(0#0#94"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSDictionary+RKAdditions.h8619559744#557"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSDictionary+RKAdditions.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/NSObject+RKJSONSerialization.h Code/Support/NSObject+RKJSONSerialization.h
+s325695071.228926
+e325695071.258271
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/Support/NSObject+RKJSONSerialization.h
+xCode/Support/NSObject+RKJSONSerialization.h
+lSLF07#2@48"Copy Code/Support/NSObject+RKJSONSerialization.h325695071#325695071#0(0"0(0#0#98"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSObject+RKJSONSerialization.h8619873728#561"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSObject+RKJSONSerialization.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/NSString+InflectionSupport.h Code/Support/NSString+InflectionSupport.h
+s325695071.245145
+e325695071.258382
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/Support/NSString+InflectionSupport.h
+xCode/Support/NSString+InflectionSupport.h
+lSLF07#2@46"Copy Code/Support/NSString+InflectionSupport.h325695071#325695071#0(0"0(0#0#96"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSString+InflectionSupport.h8625506144#559"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSString+InflectionSupport.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/RKJSONParser.h Code/Support/Parsers/RKJSONParser.h
+s325695071.251225
+e325695071.266599
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/Support/RKJSONParser.h
+xCode/Support/Parsers/RKJSONParser.h
+lSLF07#2@40"Copy Code/Support/Parsers/RKJSONParser.h325695071#325695071#0(0"0(0#0#90"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/RKJSONParser.h8639599424#553"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/RKJSONParser.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/RKParser.h Code/Support/RKParser.h
+s325695071.250321
+e325695071.266420
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/Support/RKParser.h
+xCode/Support/RKParser.h
+lSLF07#2@28"Copy Code/Support/RKParser.h325695071#325695071#0(0"0(0#0#78"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RKParser.h8644958272#541"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RKParser.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/RKSearchEngine.h Code/Support/RKSearchEngine.h
+s325695071.246538
+e325695071.266264
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/Support/RKSearchEngine.h
+xCode/Support/RKSearchEngine.h
+lSLF07#2@34"Copy Code/Support/RKSearchEngine.h325695071#325695071#0(0"0(0#0#84"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RKSearchEngine.h8645467936#547"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RKSearchEngine.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/RKXMLParser.h Code/Support/Parsers/RKXMLParser.h
+s325695071.255882
+e325695071.267473
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/Support/RKXMLParser.h
+xCode/Support/Parsers/RKXMLParser.h
+lSLF07#2@39"Copy Code/Support/Parsers/RKXMLParser.h325695071#325695071#0(0"0(0#0#89"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/RKXMLParser.h8636547200#552"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/RKXMLParser.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/Support/Support.h Code/Support/Support.h
+s325695071.256680
+e325695071.267820
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/Support/Support.h
+xCode/Support/Support.h
+lSLF07#2@27"Copy Code/Support/Support.h325695071#325695071#0(0"0(0#0#77"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Support.h8633657152#540"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Support.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/Support0#
+
+CCreateUniversalBinary /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/libRestKitSupport.a normal "armv6 armv7"
+r0
+
+CLibtool /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitSupport.build/Objects-normal/armv6/libRestKitSupport.a normal armv6
+r0
+
+CLibtool /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitSupport.build/Objects-normal/armv7/libRestKitSupport.a normal armv7
+r0
+
+CLibtool /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/libRestKitSupport.a normal i386
+s325695071.636580
+e325695071.646127
+r1
+xLibtool
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/libRestKitSupport.a
+xnormal
+xi386
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@67"Libtool Build/Debug-iphonesimulator/libRestKitSupport.a normal i386325695071#325695071#0(136"/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8623214176#803"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -filelist /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitSupport.build/Objects-normal/i386/RestKitSupport.LinkFileList -ObjC -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/libRestKitSupport.a0#
+

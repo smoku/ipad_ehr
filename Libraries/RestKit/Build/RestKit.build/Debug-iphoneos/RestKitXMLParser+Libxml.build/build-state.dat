@@ -1,0 +1,216 @@
+TRestKitXMLParser+Libxml
+v7
+r0
+t325695075.280381
+cCheck dependencies
+cProcessPCH /var/folders/vM/vMMmIC1XE5qcHpDu0N66Pk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestKit_Prefix-andxkpeokxhqomedlmtyvwihqkxm/RestKit_Prefix.pch.gch Code/Support/RestKit_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitXMLParser+Libxml.build/Objects-normal/i386/RKXMLParser+libXML.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/XML/RKXMLParser+libXML.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLibtool /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/libRestKitXMLParserLibxml.a normal i386
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D7401890000000000000110
+t1299448201
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2/libxml/parser.h
+c000000004D54D0BA00000000000098A9
+t1297404090
+s39081
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2/libxml/parser.h
+c000000004D54CF3000000000000098A9
+t1297403696
+s39081
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/libRestKitXMLParserLibxml.a
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitXMLParser+Libxml.build/Objects-normal/armv6/RKXMLParser+libXML.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitXMLParser+Libxml.build/Objects-normal/armv6/RestKitXMLParserLibxml.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitXMLParser+Libxml.build/Objects-normal/armv6/libRestKitXMLParserLibxml.a
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitXMLParser+Libxml.build/Objects-normal/armv7/RKXMLParser+libXML.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitXMLParser+Libxml.build/Objects-normal/armv7/RestKitXMLParserLibxml.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitXMLParser+Libxml.build/Objects-normal/armv7/libRestKitXMLParserLibxml.a
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/Parsers/RKXMLParser.h
+c000000004D99D4AE0000000000000263
+t1301927086
+s611
+i<Foundation/Foundation.h>
+i"RKParser.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/Parsers/XML/RKXMLParser+libXML.m
+c000000004D99D4AE00000000000010AD
+t1301927086
+s4269
+i"RKXMLParser.h"
+i<libxml2/libxml/parser.h>
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/RKParser.h
+c000000004D99D4AE000000000000024A
+t1301927086
+s586
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/RestKit_Prefix.pch
+c000000004D99D4AE00000000000000BC
+t1301927086
+s188
+i<Foundation/Foundation.h>
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/libRestKitXMLParserLibxml.a
+t1304002275
+s26072
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitXMLParser+Libxml.build/Objects-normal/i386/RKXMLParser+libXML.o
+t1304002275
+s25732
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitXMLParser+Libxml.build/Objects-normal/i386/RestKitXMLParserLibxml.LinkFileList
+c000000004DB97EE200000000000000A8
+t1304002274
+s168
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/RKXMLParser.h
+c000000004D99D4AE0000000000000263
+t1301927086
+s611
+i<Foundation/Foundation.h>
+i"RKParser.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/XML/RKXMLParser+libXML.m
+c000000004D99D4AE00000000000010AD
+t1301927086
+s4269
+i"RKXMLParser.h"
+i<libxml2/libxml/parser.h>
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RKParser.h
+c000000004D99D4AE000000000000024A
+t1301927086
+s586
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch
+c000000004D99D4AE00000000000000BC
+t1301927086
+s188
+i<Foundation/Foundation.h>
+
+N/var/folders/vM/vMMmIC1XE5qcHpDu0N66Pk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestKit_Prefix-andxkpeokxhqomedlmtyvwihqkxm/RestKit_Prefix.pch.gch
+t1304002275
+s8650576
+
+N/var/folders/vM/vMMmIC1XE5qcHpDu0N66Pk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestKit_Prefix-dpiuphimuclguhgluvlntgnysiux/RestKit_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/vM/vMMmIC1XE5qcHpDu0N66Pk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestKit_Prefix-gggancqzgdhaffbslakodtuwxsjr/RestKit_Prefix.pch.gch
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies325695074#325695074#0(0"0(0#1#0"8619939840#0"0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitXMLParser+Libxml.build/Objects-normal/armv6/RKXMLParser+libXML.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/Parsers/XML/RKXMLParser+libXML.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitXMLParser+Libxml.build/Objects-normal/armv7/RKXMLParser+libXML.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/Parsers/XML/RKXMLParser+libXML.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitXMLParser+Libxml.build/Objects-normal/i386/RKXMLParser+libXML.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/XML/RKXMLParser+libXML.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s325695075.091682
+e325695075.274962
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphonesimulator/RestKitXMLParser+Libxml.build/Objects-normal/i386/RKXMLParser+libXML.o
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/XML/RKXMLParser+libXML.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@108"Compile /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/XML/RKXMLParser+libXML.m325695075#325695075#0(0"0(0#0#100"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/XML/RKXMLParser+libXML.m8630327520#2416"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitXMLParser+Libxml.build/RestKitXMLParserLibxml-generated-files.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitXMLParser+Libxml.build/RestKitXMLParserLibxml-own-target-headers.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitXMLParser+Libxml.build/RestKitXMLParserLibxml-all-target-headers.hmap -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitXMLParser+Libxml.build/RestKitXMLParserLibxml-project-headers.hmap -F/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitXMLParser+Libxml.build/DerivedSources/i386 -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitXMLParser+Libxml.build/DerivedSources -include /var/folders/vM/vMMmIC1XE5qcHpDu0N66Pk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestKit_Prefix-andxkpeokxhqomedlmtyvwihqkxm/RestKit_Prefix.pch -c /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/XML/RKXMLParser+libXML.m -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitXMLParser+Libxml.build/Objects-normal/i386/RKXMLParser+libXML.o0#
+
+CCreateUniversalBinary /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/libRestKitXMLParserLibxml.a normal "armv6 armv7"
+r0
+
+CLibtool /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitXMLParser+Libxml.build/Objects-normal/armv6/libRestKitXMLParserLibxml.a normal armv6
+r0
+
+CLibtool /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitXMLParser+Libxml.build/Objects-normal/armv7/libRestKitXMLParserLibxml.a normal armv7
+r0
+
+CLibtool /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/libRestKitXMLParserLibxml.a normal i386
+s325695075.275061
+e325695075.280334
+r1
+xLibtool
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/libRestKitXMLParserLibxml.a
+xnormal
+xi386
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@75"Libtool Build/Debug-iphonesimulator/libRestKitXMLParserLibxml.a normal i386325695075#325695075#0(136"/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8623192512#850"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -filelist /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitXMLParser+Libxml.build/Objects-normal/i386/RestKitXMLParserLibxml.LinkFileList -ObjC -framework Foundation -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/libRestKitXMLParserLibxml.a0#
+
+CProcessPCH /var/folders/vM/vMMmIC1XE5qcHpDu0N66Pk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestKit_Prefix-andxkpeokxhqomedlmtyvwihqkxm/RestKit_Prefix.pch.gch Code/Support/RestKit_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s325695074.367063
+e325695075.091451
+r1
+xProcessPCH
+x/var/folders/vM/vMMmIC1XE5qcHpDu0N66Pk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestKit_Prefix-andxkpeokxhqomedlmtyvwihqkxm/RestKit_Prefix.pch.gch
+xCode/Support/RestKit_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@42"Precompile Code/Support/RestKit_Prefix.pch325695074#325695075#0(0"0(0#0#86"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch8629205856#2236"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitXMLParser+Libxml.build/RestKitXMLParserLibxml-generated-files.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitXMLParser+Libxml.build/RestKitXMLParserLibxml-own-target-headers.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitXMLParser+Libxml.build/RestKitXMLParserLibxml-all-target-headers.hmap -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitXMLParser+Libxml.build/RestKitXMLParserLibxml-project-headers.hmap -F/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitXMLParser+Libxml.build/DerivedSources/i386 -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitXMLParser+Libxml.build/DerivedSources -c /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch -o /var/folders/vM/vMMmIC1XE5qcHpDu0N66Pk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestKit_Prefix-andxkpeokxhqomedlmtyvwihqkxm/RestKit_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/vM/vMMmIC1XE5qcHpDu0N66Pk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestKit_Prefix-dpiuphimuclguhgluvlntgnysiux/RestKit_Prefix.pch.gch Code/Support/RestKit_Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CProcessPCH /var/folders/vM/vMMmIC1XE5qcHpDu0N66Pk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestKit_Prefix-gggancqzgdhaffbslakodtuwxsjr/RestKit_Prefix.pch.gch Code/Support/RestKit_Prefix.pch normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+

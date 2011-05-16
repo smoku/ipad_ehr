@@ -1,0 +1,1204 @@
+TRestKitObjectMapping
+v7
+r0
+t325695071.213853
+cCheck dependencies
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObject.h Code/ObjectMapping/RKObject.h
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObjectLoader.h Code/ObjectMapping/RKObjectLoader.h
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObjectManager.h Code/ObjectMapping/RKObjectManager.h
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObjectMappable.h Code/ObjectMapping/RKObjectMappable.h
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObjectMapper.h Code/ObjectMapping/RKObjectMapper.h
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObjectPropertyInspector.h Code/ObjectMapping/RKObjectPropertyInspector.h
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKRouter.h Code/ObjectMapping/RKRouter.h
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/ObjectMapping.h Code/ObjectMapping/ObjectMapping.h
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKDynamicRouter.h Code/ObjectMapping/RKDynamicRouter.h
+cCpHeader Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKRailsRouter.h Code/ObjectMapping/RKRailsRouter.h
+cCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObject.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObject.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectLoader.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectLoader.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectManager.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectMapper.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectMapper.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectPropertyInspector.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectPropertyInspector.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKDynamicRouter.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKDynamicRouter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKRailsRouter.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKRailsRouter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectMappable.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectMappable.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/libRestKitObjectMapping.a normal i386
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D7401890000000000000110
+t1299448201
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004D54D243000000000000046B
+t1297404483
+s1131
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004D54D0D40000000000001A58
+t1297404116
+s6744
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/objc/message.h
+c000000004D54CADE0000000000001F13
+t1297402590
+s7955
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004D54D01A000000000000046B
+t1297403930
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004D54CEF80000000000001A58
+t1297403640
+s6744
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/objc/message.h
+c000000004D54CB430000000000001F13
+t1297402691
+s7955
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/include/RestKit/ObjectMapping/ObjectMapping.h
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/include/RestKit/ObjectMapping/RKDynamicRouter.h
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/include/RestKit/ObjectMapping/RKObject.h
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/include/RestKit/ObjectMapping/RKObjectLoader.h
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/include/RestKit/ObjectMapping/RKObjectManager.h
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/include/RestKit/ObjectMapping/RKObjectMappable.h
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/include/RestKit/ObjectMapping/RKObjectMapper.h
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/include/RestKit/ObjectMapping/RKObjectPropertyInspector.h
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/include/RestKit/ObjectMapping/RKRailsRouter.h
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/include/RestKit/ObjectMapping/RKRouter.h
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/libRestKitObjectMapping.a
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv6/RKDynamicRouter.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv6/RKObject.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv6/RKObjectLoader.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv6/RKObjectManager.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv6/RKObjectMappable.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv6/RKObjectMapper.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv6/RKObjectPropertyInspector.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv6/RKRailsRouter.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv6/RestKitObjectMapping.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv6/libRestKitObjectMapping.a
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv7/RKDynamicRouter.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv7/RKObject.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv7/RKObjectLoader.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv7/RKObjectManager.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv7/RKObjectMappable.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv7/RKObjectMapper.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv7/RKObjectPropertyInspector.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv7/RKRailsRouter.o
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv7/RestKitObjectMapping.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv7/libRestKitObjectMapping.a
+t2
+s0
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/CoreData/CoreData.h
+c000000004D99D4AE000000000000014D
+t1301927086
+s333
+i<CoreData/CoreData.h>
+i"../ObjectMapping/ObjectMapping.h"
+i"RKManagedObject.h"
+i"RKManagedObjectStore.h"
+i"RKManagedObjectSeeder.h"
+i"RKManagedObjectCache.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/CoreData/RKManagedObject.h
+c000000004D99D4AE0000000000001087
+t1301927086
+s4231
+i<Foundation/Foundation.h>
+i"../ObjectMapping/ObjectMapping.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/CoreData/RKManagedObjectCache.h
+c000000004D99D4AE0000000000000205
+t1301927086
+s517
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/CoreData/RKManagedObjectLoader.h
+c000000004D99D4AE000000000000015C
+t1301927086
+s348
+i"../ObjectMapping/RKObjectLoader.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/CoreData/RKManagedObjectSeeder.h
+c000000004D99D4AE00000000000009BD
+t1301927086
+s2493
+i"../ObjectMapping/ObjectMapping.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/CoreData/RKManagedObjectStore.h
+c000000004D99D4AE0000000000000EC9
+t1301927086
+s3785
+i<CoreData/CoreData.h>
+i"RKManagedObject.h"
+i"RKManagedObjectCache.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Network/NSDictionary+RKRequestSerialization.h
+c000000004D99D4AE00000000000001A0
+t1301927086
+s416
+i<Foundation/Foundation.h>
+i"RKRequestSerializable.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Network/Network.h
+c000000004D99D4AE0000000000000125
+t1301927086
+s293
+i"RKClient.h"
+i"RKRequest.h"
+i"RKResponse.h"
+i"RKRequestSerializable.h"
+i"RKReachabilityObserver.h"
+i"RKRequestQueue.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Network/RKClient.h
+c000000004D99D4AE0000000000001BD3
+t1301927086
+s7123
+i"RKRequest.h"
+i"RKParams.h"
+i"RKResponse.h"
+i"NSDictionary+RKRequestSerialization.h"
+i"RKReachabilityObserver.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Network/RKJSONSerialization.h
+c000000004D99D4AE0000000000000267
+t1301927086
+s615
+i"RKRequestSerializable.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Network/RKNotifications.h
+c000000004D99D4AE00000000000002B6
+t1301927086
+s694
+i<Foundation/Foundation.h>
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Network/RKParams.h
+c000000004D99D4AE000000000000095A
+t1301927086
+s2394
+i<Foundation/Foundation.h>
+i"RKRequestSerializable.h"
+i"RKParamsAttachment.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Network/RKParamsAttachment.h
+c000000004D99D4AE0000000000000879
+t1301927086
+s2169
+i<Foundation/Foundation.h>
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Network/RKReachabilityObserver.h
+c000000004D99D4AE0000000000000580
+t1301927086
+s1408
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Network/RKRequest.h
+c000000004D99D4AE00000000000012E5
+t1301927086
+s4837
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+i"RKRequestSerializable.h"
+i"RKJSONSerialization.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Network/RKRequestQueue.h
+c000000004D99D4AE000000000000057A
+t1301927086
+s1402
+i<Foundation/Foundation.h>
+i"RKRequest.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Network/RKRequestSerializable.h
+c000000004D99D4AE00000000000005FC
+t1301927086
+s1532
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Network/RKResponse.h
+c000000004D99D4AE0000000000001030
+t1301927086
+s4144
+i<Foundation/Foundation.h>
+i"RKRequest.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/ObjectMapping.h
+c000000004D99D4AE00000000000000D5
+t1301927086
+s213
+i"RKObjectManager.h"
+i"RKObject.h"
+i"RKObjectLoader.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKDynamicRouter.h
+c000000004D99D4AE0000000000000513
+t1301927086
+s1299
+i"RKRouter.h"
+i"RKObjectMappable.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKDynamicRouter.m
+c000000004D99D4AE0000000000000C43
+t1301927086
+s3139
+i"RKDynamicRouter.h"
+i"RKDynamicRouter.h"
+i"NSDictionary+RKRequestSerialization.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObject.h
+c000000004D99D4AE000000000000011F
+t1301927086
+s287
+i"RKObjectMappable.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObject.m
+c000000004D99D4AE000000000000020F
+t1301927086
+s527
+i"RKObject.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObjectLoader.h
+c000000004D99D4AE0000000000000CB8
+t1301927086
+s3256
+i"../Network/Network.h"
+i"RKObjectMappable.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObjectLoader.m
+c000000004D99D4AE000000000000209E
+t1301927086
+s8350
+i<UIKit/UIKit.h>
+i"RKObjectLoader.h"
+i"RKObjectManager.h"
+i"Errors.h"
+i"RKNotifications.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObjectManager.h
+c000000004D99D4AE000000000000208C
+t1301927086
+s8332
+i"../Network/Network.h"
+i"RKObjectMapper.h"
+i"RKObjectLoader.h"
+i"RKDynamicRouter.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObjectManager.m
+c000000004D99D4AE0000000000001F9E
+t1301927086
+s8094
+i"RKObjectManager.h"
+i"../CoreData/RKManagedObjectStore.h"
+i"../CoreData/RKManagedObjectLoader.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObjectMappable.h
+c000000004D99D4AE0000000000000B08
+t1301927086
+s2824
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObjectMappable.m
+c000000004D99D4AE0000000000000624
+t1301927086
+s1572
+i"RKObjectMappable.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObjectMapper.h
+c000000004D99D4AE0000000000001533
+t1301927086
+s5427
+i<Foundation/Foundation.h>
+i"RKObjectMappable.h"
+i"RKObjectPropertyInspector.h"
+i"../Support/RKParser.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObjectMapper.m
+c000000004D99D4AE00000000000056AF
+t1301927086
+s22191
+i<objc/message.h>
+i"../CoreData/CoreData.h"
+i"RKObjectManager.h"
+i"RKObjectMapper.h"
+i"NSDictionary+RKAdditions.h"
+i"RKJSONParser.h"
+i"RKXMLParser.h"
+i"Errors.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObjectPropertyInspector.h
+c000000004D99D4AE00000000000001BC
+t1301927086
+s444
+i<Foundation/Foundation.h>
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObjectPropertyInspector.m
+c000000004D99D4AE0000000000000ABD
+t1301927086
+s2749
+i<objc/message.h>
+i"RKObjectPropertyInspector.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKRailsRouter.h
+c000000004D99D4AE0000000000000350
+t1301927086
+s848
+i<Foundation/Foundation.h>
+i"RKDynamicRouter.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKRailsRouter.m
+c000000004D99D4AE0000000000000731
+t1301927086
+s1841
+i"RKRailsRouter.h"
+i"../Support/NSString+InflectionSupport.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKRouter.h
+c000000004D99D4AE00000000000002F3
+t1301927086
+s755
+i"../Network/Network.h"
+i"RKObjectMappable.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/Errors.h
+c000000004D99D4AE0000000000000146
+t1301927086
+s326
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/NSDictionary+RKAdditions.h
+c000000004D99D4AE0000000000000234
+t1301927086
+s564
+i<Foundation/Foundation.h>
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/NSString+InflectionSupport.h
+c000000004D99D4AE0000000000000378
+t1301927086
+s888
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/Parsers/RKJSONParser.h
+c000000004D99D4AE00000000000000E2
+t1301927086
+s226
+i"RKParser.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/Parsers/RKXMLParser.h
+c000000004D99D4AE0000000000000263
+t1301927086
+s611
+i<Foundation/Foundation.h>
+i"RKParser.h"
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/RKParser.h
+c000000004D99D4AE000000000000024A
+t1301927086
+s586
+
+N/Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/Support/RestKit_Prefix.pch
+c000000004D99D4AE00000000000000BC
+t1301927086
+s188
+i<Foundation/Foundation.h>
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/ObjectMapping.h
+t1304002270
+s213
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKDynamicRouter.h
+t1304002270
+s1299
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObject.h
+t1304002270
+s287
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObjectLoader.h
+t1304002270
+s3256
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObjectManager.h
+t1304002270
+s8332
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObjectMappable.h
+t1304002270
+s2824
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObjectMapper.h
+t1304002270
+s5427
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObjectPropertyInspector.h
+t1304002270
+s444
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKRailsRouter.h
+t1304002270
+s848
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKRouter.h
+t1304002270
+s755
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/libRestKitObjectMapping.a
+t1304002271
+s243552
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKDynamicRouter.o
+t1304002271
+s15304
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObject.o
+t1304002270
+s10508
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectLoader.o
+t1304002270
+s70136
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectManager.o
+t1304002270
+s38848
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectMappable.o
+t1304002271
+s9084
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectMapper.o
+t1304002270
+s69160
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectPropertyInspector.o
+t1304002270
+s13988
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKRailsRouter.o
+t1304002271
+s13068
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RestKitObjectMapping.LinkFileList
+c000000004DB97EDE0000000000000510
+t1304002270
+s1296
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/CoreData/CoreData.h
+c000000004D99D4AE000000000000014D
+t1301927086
+s333
+i<CoreData/CoreData.h>
+i"../ObjectMapping/ObjectMapping.h"
+i"RKManagedObject.h"
+i"RKManagedObjectStore.h"
+i"RKManagedObjectSeeder.h"
+i"RKManagedObjectCache.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/CoreData/RKManagedObject.h
+c000000004D99D4AE0000000000001087
+t1301927086
+s4231
+i<Foundation/Foundation.h>
+i"../ObjectMapping/ObjectMapping.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/CoreData/RKManagedObjectCache.h
+c000000004D99D4AE0000000000000205
+t1301927086
+s517
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/CoreData/RKManagedObjectLoader.h
+c000000004D99D4AE000000000000015C
+t1301927086
+s348
+i"../ObjectMapping/RKObjectLoader.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/CoreData/RKManagedObjectSeeder.h
+c000000004D99D4AE00000000000009BD
+t1301927086
+s2493
+i"../ObjectMapping/ObjectMapping.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/CoreData/RKManagedObjectStore.h
+c000000004D99D4AE0000000000000EC9
+t1301927086
+s3785
+i<CoreData/CoreData.h>
+i"RKManagedObject.h"
+i"RKManagedObjectCache.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Network/NSDictionary+RKRequestSerialization.h
+c000000004D99D4AE00000000000001A0
+t1301927086
+s416
+i<Foundation/Foundation.h>
+i"RKRequestSerializable.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Network/Network.h
+c000000004D99D4AE0000000000000125
+t1301927086
+s293
+i"RKClient.h"
+i"RKRequest.h"
+i"RKResponse.h"
+i"RKRequestSerializable.h"
+i"RKReachabilityObserver.h"
+i"RKRequestQueue.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Network/RKClient.h
+c000000004D99D4AE0000000000001BD3
+t1301927086
+s7123
+i"RKRequest.h"
+i"RKParams.h"
+i"RKResponse.h"
+i"NSDictionary+RKRequestSerialization.h"
+i"RKReachabilityObserver.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Network/RKJSONSerialization.h
+c000000004D99D4AE0000000000000267
+t1301927086
+s615
+i"RKRequestSerializable.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Network/RKNotifications.h
+c000000004D99D4AE00000000000002B6
+t1301927086
+s694
+i<Foundation/Foundation.h>
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Network/RKParams.h
+c000000004D99D4AE000000000000095A
+t1301927086
+s2394
+i<Foundation/Foundation.h>
+i"RKRequestSerializable.h"
+i"RKParamsAttachment.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Network/RKParamsAttachment.h
+c000000004D99D4AE0000000000000879
+t1301927086
+s2169
+i<Foundation/Foundation.h>
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Network/RKReachabilityObserver.h
+c000000004D99D4AE0000000000000580
+t1301927086
+s1408
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Network/RKRequest.h
+c000000004D99D4AE00000000000012E5
+t1301927086
+s4837
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+i"RKRequestSerializable.h"
+i"RKJSONSerialization.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Network/RKRequestQueue.h
+c000000004D99D4AE000000000000057A
+t1301927086
+s1402
+i<Foundation/Foundation.h>
+i"RKRequest.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Network/RKRequestSerializable.h
+c000000004D99D4AE00000000000005FC
+t1301927086
+s1532
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Network/RKResponse.h
+c000000004D99D4AE0000000000001030
+t1301927086
+s4144
+i<Foundation/Foundation.h>
+i"RKRequest.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/ObjectMapping.h
+c000000004D99D4AE00000000000000D5
+t1301927086
+s213
+i"RKObjectManager.h"
+i"RKObject.h"
+i"RKObjectLoader.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKDynamicRouter.h
+c000000004D99D4AE0000000000000513
+t1301927086
+s1299
+i"RKRouter.h"
+i"RKObjectMappable.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKDynamicRouter.m
+c000000004D99D4AE0000000000000C43
+t1301927086
+s3139
+i"RKDynamicRouter.h"
+i"RKDynamicRouter.h"
+i"NSDictionary+RKRequestSerialization.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObject.h
+c000000004D99D4AE000000000000011F
+t1301927086
+s287
+i"RKObjectMappable.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObject.m
+c000000004D99D4AE000000000000020F
+t1301927086
+s527
+i"RKObject.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectLoader.h
+c000000004D99D4AE0000000000000CB8
+t1301927086
+s3256
+i"../Network/Network.h"
+i"RKObjectMappable.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectLoader.m
+c000000004D99D4AE000000000000209E
+t1301927086
+s8350
+i<UIKit/UIKit.h>
+i"RKObjectLoader.h"
+i"RKObjectManager.h"
+i"Errors.h"
+i"RKNotifications.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectManager.h
+c000000004D99D4AE000000000000208C
+t1301927086
+s8332
+i"../Network/Network.h"
+i"RKObjectMapper.h"
+i"RKObjectLoader.h"
+i"RKDynamicRouter.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectManager.m
+c000000004D99D4AE0000000000001F9E
+t1301927086
+s8094
+i"RKObjectManager.h"
+i"../CoreData/RKManagedObjectStore.h"
+i"../CoreData/RKManagedObjectLoader.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectMappable.h
+c000000004D99D4AE0000000000000B08
+t1301927086
+s2824
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectMappable.m
+c000000004D99D4AE0000000000000624
+t1301927086
+s1572
+i"RKObjectMappable.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectMapper.h
+c000000004D99D4AE0000000000001533
+t1301927086
+s5427
+i<Foundation/Foundation.h>
+i"RKObjectMappable.h"
+i"RKObjectPropertyInspector.h"
+i"../Support/RKParser.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectMapper.m
+c000000004D99D4AE00000000000056AF
+t1301927086
+s22191
+i<objc/message.h>
+i"../CoreData/CoreData.h"
+i"RKObjectManager.h"
+i"RKObjectMapper.h"
+i"NSDictionary+RKAdditions.h"
+i"RKJSONParser.h"
+i"RKXMLParser.h"
+i"Errors.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectPropertyInspector.h
+c000000004D99D4AE00000000000001BC
+t1301927086
+s444
+i<Foundation/Foundation.h>
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectPropertyInspector.m
+c000000004D99D4AE0000000000000ABD
+t1301927086
+s2749
+i<objc/message.h>
+i"RKObjectPropertyInspector.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKRailsRouter.h
+c000000004D99D4AE0000000000000350
+t1301927086
+s848
+i<Foundation/Foundation.h>
+i"RKDynamicRouter.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKRailsRouter.m
+c000000004D99D4AE0000000000000731
+t1301927086
+s1841
+i"RKRailsRouter.h"
+i"../Support/NSString+InflectionSupport.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKRouter.h
+c000000004D99D4AE00000000000002F3
+t1301927086
+s755
+i"../Network/Network.h"
+i"RKObjectMappable.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Errors.h
+c000000004D99D4AE0000000000000146
+t1301927086
+s326
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSDictionary+RKAdditions.h
+c000000004D99D4AE0000000000000234
+t1301927086
+s564
+i<Foundation/Foundation.h>
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/NSString+InflectionSupport.h
+c000000004D99D4AE0000000000000378
+t1301927086
+s888
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/RKJSONParser.h
+c000000004D99D4AE00000000000000E2
+t1301927086
+s226
+i"RKParser.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/Parsers/RKXMLParser.h
+c000000004D99D4AE0000000000000263
+t1301927086
+s611
+i<Foundation/Foundation.h>
+i"RKParser.h"
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RKParser.h
+c000000004D99D4AE000000000000024A
+t1301927086
+s586
+
+N/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch
+c000000004D99D4AE00000000000000BC
+t1301927086
+s188
+i<Foundation/Foundation.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies325695070#325695070#0(0"0(0#1#0"8624900832#0"0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv6/RKDynamicRouter.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKDynamicRouter.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv6/RKObject.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObject.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv6/RKObjectLoader.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObjectLoader.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv6/RKObjectManager.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObjectManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv6/RKObjectMappable.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObjectMappable.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv6/RKObjectMapper.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObjectMapper.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv6/RKObjectPropertyInspector.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObjectPropertyInspector.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv6/RKRailsRouter.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKRailsRouter.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv7/RKDynamicRouter.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKDynamicRouter.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv7/RKObject.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObject.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv7/RKObjectLoader.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObjectLoader.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv7/RKObjectManager.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObjectManager.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv7/RKObjectMappable.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObjectMappable.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv7/RKObjectMapper.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObjectMapper.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv7/RKObjectPropertyInspector.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKObjectPropertyInspector.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv7/RKRailsRouter.o /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Code/ObjectMapping/RKRailsRouter.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKDynamicRouter.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKDynamicRouter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325695070.857862
+e325695071.051150
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKDynamicRouter.o
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKDynamicRouter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKDynamicRouter.m325695070#325695071#0(0"0(0#0#91"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKDynamicRouter.m8604434080#2180"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-generated-files.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-own-target-headers.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-all-target-headers.hmap -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-project-headers.hmap -F/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/DerivedSources/i386 -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/DerivedSources -include /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch -c /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKDynamicRouter.m -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKDynamicRouter.o0#
+
+CCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObject.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObject.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325695070.254970
+e325695070.435737
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObject.o
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObject.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObject.m325695070#325695070#0(0"0(0#0#84"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObject.m8614203488#2166"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-generated-files.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-own-target-headers.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-all-target-headers.hmap -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-project-headers.hmap -F/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/DerivedSources/i386 -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/DerivedSources -include /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch -c /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObject.m -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObject.o0#
+
+CCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectLoader.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectLoader.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325695070.255966
+e325695070.604935
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectLoader.o
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectLoader.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectLoader.m325695070#325695070#0(0"0(0#0#90"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectLoader.m8614132736#2178"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-generated-files.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-own-target-headers.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-all-target-headers.hmap -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-project-headers.hmap -F/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/DerivedSources/i386 -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/DerivedSources -include /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch -c /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectLoader.m -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectLoader.o0#
+
+CCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectManager.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325695070.435845
+e325695070.676288
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectManager.o
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectManager.m325695070#325695070#0(0"0(0#0#91"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectManager.m8639661952#2180"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-generated-files.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-own-target-headers.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-all-target-headers.hmap -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-project-headers.hmap -F/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/DerivedSources/i386 -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/DerivedSources -include /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch -c /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectManager.m -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectManager.o0#
+
+CCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectMappable.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectMappable.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325695071.051262
+e325695071.200866
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectMappable.o
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectMappable.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectMappable.m325695071#325695071#0(0"0(0#0#92"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectMappable.m8645705760#2182"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-generated-files.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-own-target-headers.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-all-target-headers.hmap -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-project-headers.hmap -F/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/DerivedSources/i386 -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/DerivedSources -include /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch -c /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectMappable.m -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectMappable.o0#
+
+CCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectMapper.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectMapper.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325695070.605038
+e325695070.904790
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectMapper.o
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectMapper.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectMapper.m325695070#325695070#0(0"0(0#0#90"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectMapper.m8621138048#2178"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-generated-files.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-own-target-headers.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-all-target-headers.hmap -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-project-headers.hmap -F/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/DerivedSources/i386 -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/DerivedSources -include /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch -c /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectMapper.m -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectMapper.o0#
+
+CCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectPropertyInspector.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectPropertyInspector.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325695070.676456
+e325695070.857749
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectPropertyInspector.o
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectPropertyInspector.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectPropertyInspector.m325695070#325695070#0(0"0(0#0#101"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectPropertyInspector.m8619886464#2200"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-generated-files.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-own-target-headers.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-all-target-headers.hmap -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-project-headers.hmap -F/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/DerivedSources/i386 -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/DerivedSources -include /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch -c /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectPropertyInspector.m -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKObjectPropertyInspector.o0#
+
+CCompileC Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKRailsRouter.o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKRailsRouter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325695070.904892
+e325695071.105203
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKRailsRouter.o
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKRailsRouter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKRailsRouter.m325695070#325695071#0(0"0(0#0#89"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKRailsRouter.m8625633312#2176"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-generated-files.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-own-target-headers.hmap -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-all-target-headers.hmap -iquote /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/RestKitObjectMapping-project-headers.hmap -F/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/DerivedSources/i386 -I/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/DerivedSources -include /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/Support/RestKit_Prefix.pch -c /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKRailsRouter.m -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RKRailsRouter.o0#
+
+CCpHeader Build/Debug-iphoneos/include/RestKit/ObjectMapping/ObjectMapping.h Code/ObjectMapping/ObjectMapping.h
+r0
+
+CCpHeader Build/Debug-iphoneos/include/RestKit/ObjectMapping/RKDynamicRouter.h Code/ObjectMapping/RKDynamicRouter.h
+r0
+
+CCpHeader Build/Debug-iphoneos/include/RestKit/ObjectMapping/RKObject.h Code/ObjectMapping/RKObject.h
+r0
+
+CCpHeader Build/Debug-iphoneos/include/RestKit/ObjectMapping/RKObjectLoader.h Code/ObjectMapping/RKObjectLoader.h
+r0
+
+CCpHeader Build/Debug-iphoneos/include/RestKit/ObjectMapping/RKObjectManager.h Code/ObjectMapping/RKObjectManager.h
+r0
+
+CCpHeader Build/Debug-iphoneos/include/RestKit/ObjectMapping/RKObjectMappable.h Code/ObjectMapping/RKObjectMappable.h
+r0
+
+CCpHeader Build/Debug-iphoneos/include/RestKit/ObjectMapping/RKObjectMapper.h Code/ObjectMapping/RKObjectMapper.h
+r0
+
+CCpHeader Build/Debug-iphoneos/include/RestKit/ObjectMapping/RKObjectPropertyInspector.h Code/ObjectMapping/RKObjectPropertyInspector.h
+r0
+
+CCpHeader Build/Debug-iphoneos/include/RestKit/ObjectMapping/RKRailsRouter.h Code/ObjectMapping/RKRailsRouter.h
+r0
+
+CCpHeader Build/Debug-iphoneos/include/RestKit/ObjectMapping/RKRouter.h Code/ObjectMapping/RKRouter.h
+r0
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/ObjectMapping.h Code/ObjectMapping/ObjectMapping.h
+s325695070.238068
+e325695070.250250
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/ObjectMapping/ObjectMapping.h
+xCode/ObjectMapping/ObjectMapping.h
+lSLF07#2@39"Copy Code/ObjectMapping/ObjectMapping.h325695070#325695070#0(0"0(0#0#89"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/ObjectMapping.h8632706432#558"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/ObjectMapping.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/ObjectMapping0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKDynamicRouter.h Code/ObjectMapping/RKDynamicRouter.h
+s325695070.243286
+e325695070.250361
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKDynamicRouter.h
+xCode/ObjectMapping/RKDynamicRouter.h
+lSLF07#2@41"Copy Code/ObjectMapping/RKDynamicRouter.h325695070#325695070#0(0"0(0#0#91"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKDynamicRouter.h8614233696#560"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKDynamicRouter.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/ObjectMapping0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObject.h Code/ObjectMapping/RKObject.h
+s325695070.222343
+e325695070.249462
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObject.h
+xCode/ObjectMapping/RKObject.h
+lSLF07#2@34"Copy Code/ObjectMapping/RKObject.h325695070#325695070#0(0"0(0#0#84"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObject.h8614100704#553"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObject.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/ObjectMapping0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObjectLoader.h Code/ObjectMapping/RKObjectLoader.h
+s325695070.223217
+e325695070.249583
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObjectLoader.h
+xCode/ObjectMapping/RKObjectLoader.h
+lSLF07#2@40"Copy Code/ObjectMapping/RKObjectLoader.h325695070#325695070#0(0"0(0#0#90"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectLoader.h8626276672#559"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectLoader.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/ObjectMapping0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObjectManager.h Code/ObjectMapping/RKObjectManager.h
+s325695070.223974
+e325695070.249694
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObjectManager.h
+xCode/ObjectMapping/RKObjectManager.h
+lSLF07#2@41"Copy Code/ObjectMapping/RKObjectManager.h325695070#325695070#0(0"0(0#0#91"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectManager.h8620008000#560"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectManager.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/ObjectMapping0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObjectMappable.h Code/ObjectMapping/RKObjectMappable.h
+s325695070.224634
+e325695070.249802
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObjectMappable.h
+xCode/ObjectMapping/RKObjectMappable.h
+lSLF07#2@42"Copy Code/ObjectMapping/RKObjectMappable.h325695070#325695070#0(0"0(0#0#92"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectMappable.h8644730272#561"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectMappable.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/ObjectMapping0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObjectMapper.h Code/ObjectMapping/RKObjectMapper.h
+s325695070.225266
+e325695070.249916
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObjectMapper.h
+xCode/ObjectMapping/RKObjectMapper.h
+lSLF07#2@40"Copy Code/ObjectMapping/RKObjectMapper.h325695070#325695070#0(0"0(0#0#90"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectMapper.h8614220928#559"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectMapper.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/ObjectMapping0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObjectPropertyInspector.h Code/ObjectMapping/RKObjectPropertyInspector.h
+s325695070.227151
+e325695070.250030
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKObjectPropertyInspector.h
+xCode/ObjectMapping/RKObjectPropertyInspector.h
+lSLF07#2@51"Copy Code/ObjectMapping/RKObjectPropertyInspector.h325695070#325695070#0(0"0(0#0#101"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectPropertyInspector.h8618988448#570"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKObjectPropertyInspector.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/ObjectMapping0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKRailsRouter.h Code/ObjectMapping/RKRailsRouter.h
+s325695070.248400
+e325695070.254867
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKRailsRouter.h
+xCode/ObjectMapping/RKRailsRouter.h
+lSLF07#2@39"Copy Code/ObjectMapping/RKRailsRouter.h325695070#325695070#0(0"0(0#0#89"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKRailsRouter.h8615520608#558"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKRailsRouter.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/ObjectMapping0#
+
+CCpHeader Build/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKRouter.h Code/ObjectMapping/RKRouter.h
+s325695070.236253
+e325695070.250138
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/include/RestKit/ObjectMapping/RKRouter.h
+xCode/ObjectMapping/RKRouter.h
+lSLF07#2@34"Copy Code/ObjectMapping/RKRouter.h325695070#325695070#0(0"0(0#0#84"/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKRouter.h8619858944#553"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Code/ObjectMapping/RKRouter.h /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/include/RestKit/ObjectMapping0#
+
+CCreateUniversalBinary /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/Debug-iphoneos/libRestKitObjectMapping.a normal "armv6 armv7"
+r0
+
+CLibtool /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv6/libRestKitObjectMapping.a normal armv6
+r0
+
+CLibtool /Users/smoku/Documents/iPhone/EHR/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitObjectMapping.build/Objects-normal/armv7/libRestKitObjectMapping.a normal armv7
+r0
+
+CLibtool /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/libRestKitObjectMapping.a normal i386
+s325695071.200969
+e325695071.213803
+r1
+xLibtool
+x/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/libRestKitObjectMapping.a
+xnormal
+xi386
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@73"Libtool Build/Debug-iphonesimulator/libRestKitObjectMapping.a normal i386325695071#325695071#0(136"/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8625636672#821"    cd /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator -filelist /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/RestKit.build/Debug-iphonesimulator/RestKitObjectMapping.build/Objects-normal/i386/RestKitObjectMapping.LinkFileList -ObjC -o /Users/smoku/Webdesign/EHR/twotoasters-RestKit-cc34501/Build/Debug-iphonesimulator/libRestKitObjectMapping.a0#
+

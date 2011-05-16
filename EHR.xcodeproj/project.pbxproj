@@ -1,0 +1,738 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* EHRAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* EHRAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		2804200B108E984D000629CD /* ProfilesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28042008108E984D000629CD /* ProfilesViewController.m */; };
+		280420C1108EA07E000629CD /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 280420C0108EA07E000629CD /* CoreData.framework */; };
+		2819300E112F7FA900ECF9B4 /* EHR.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2819300D112F7FA900ECF9B4 /* EHR.xcdatamodeld */; };
+		2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */; };
+		28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD735F0D9D9599002E5188 /* MainWindow.xib */; };
+		EF2AA2261369B6B3007F1618 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF2AA2251369B6B3007F1618 /* CFNetwork.framework */; };
+		EF2AA2281369B6B3007F1618 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF2AA2271369B6B3007F1618 /* SystemConfiguration.framework */; };
+		EF2AA22A1369B6BF007F1618 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF2AA2291369B6BF007F1618 /* MobileCoreServices.framework */; };
+		EF51BA9A136C8C8C00607DA0 /* MedicationTableCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EF51BA99136C8C8C00607DA0 /* MedicationTableCell.m */; };
+		EF5461031380084C00252F91 /* SettingsEditViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EF5461021380084C00252F91 /* SettingsEditViewController.m */; };
+		EF5461061380086D00252F91 /* SettingsFormDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = EF5461051380086D00252F91 /* SettingsFormDataSource.m */; };
+		EF5461081380088C00252F91 /* SettingsEditView.xib in Resources */ = {isa = PBXBuildFile; fileRef = EF5461071380088C00252F91 /* SettingsEditView.xib */; };
+		EF68EE66137EB7BD0055B862 /* ResultCreateViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EF68EE65137EB7BD0055B862 /* ResultCreateViewController.m */; };
+		EF68EE69137EB7D20055B862 /* ResultFormDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = EF68EE68137EB7D20055B862 /* ResultFormDataSource.m */; };
+		EF68EE6B137EB7F00055B862 /* ResultCreateView.xib in Resources */ = {isa = PBXBuildFile; fileRef = EF68EE6A137EB7F00055B862 /* ResultCreateView.xib */; };
+		EF68EE96137ECF5F0055B862 /* ResultTableCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EF68EE95137ECF5F0055B862 /* ResultTableCell.m */; };
+		EF68EEC5137ED5F90055B862 /* TDBadgedCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EF68EEC4137ED5F90055B862 /* TDBadgedCell.m */; };
+		EF68EEC9137EE1080055B862 /* UIView+Sizes.m in Sources */ = {isa = PBXBuildFile; fileRef = EF68EEC8137EE1080055B862 /* UIView+Sizes.m */; };
+		EF68EECD137EF7800055B862 /* medications.png in Resources */ = {isa = PBXBuildFile; fileRef = EF68EECB137EF7800055B862 /* medications.png */; };
+		EF68EECE137EF7800055B862 /* results.png in Resources */ = {isa = PBXBuildFile; fileRef = EF68EECC137EF7800055B862 /* results.png */; };
+		EF812713137E995900D75B24 /* libIBAForms.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EF812712137E995900D75B24 /* libIBAForms.a */; };
+		EF812744137EA0AD00D75B24 /* MedicationCreateViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EF812743137EA0AD00D75B24 /* MedicationCreateViewController.m */; };
+		EF81274A137EA43300D75B24 /* MedicationFormDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = EF812749137EA43300D75B24 /* MedicationFormDataSource.m */; };
+		EF812755137EAD1D00D75B24 /* MedicationCreateView.xib in Resources */ = {isa = PBXBuildFile; fileRef = EF812754137EAD1D00D75B24 /* MedicationCreateView.xib */; };
+		EFA547AD136AA88500971EB8 /* Profile.m in Sources */ = {isa = PBXBuildFile; fileRef = EFA547A8136AA88500971EB8 /* Profile.m */; };
+		EFA547AE136AA88500971EB8 /* Medication.m in Sources */ = {isa = PBXBuildFile; fileRef = EFA547AA136AA88500971EB8 /* Medication.m */; };
+		EFA547AF136AA88500971EB8 /* Result.m in Sources */ = {isa = PBXBuildFile; fileRef = EFA547AC136AA88500971EB8 /* Result.m */; };
+		EFA54815136AACA700971EB8 /* libRestKitCoreData.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EFA54810136AACA300971EB8 /* libRestKitCoreData.a */; };
+		EFA54816136AACAA00971EB8 /* libRestKitJSONParserYAJL.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EFA54808136AACA300971EB8 /* libRestKitJSONParserYAJL.a */; };
+		EFA54817136AACAE00971EB8 /* libRestKitNetwork.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EFA54802136AACA300971EB8 /* libRestKitNetwork.a */; };
+		EFA54818136AACAE00971EB8 /* libRestKitObjectMapping.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EFA54804136AACA300971EB8 /* libRestKitObjectMapping.a */; };
+		EFA54819136AACB000971EB8 /* libRestKitSupport.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EFA54806136AACA300971EB8 /* libRestKitSupport.a */; };
+		EFA54A77136B011A00971EB8 /* MedicationsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EFA54A76136B011A00971EB8 /* MedicationsViewController.m */; };
+		EFA54A7A136B012A00971EB8 /* ResultsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EFA54A79136B012A00971EB8 /* ResultsViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		EF812708137E992D00D75B24 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EF812701137E992D00D75B24 /* IBAForms.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = D2AAC07E0554694100DB518D;
+			remoteInfo = IBAForms;
+		};
+		EFA54801136AACA300971EB8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EFA547EE136AACA300971EB8 /* RestKit.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 253A07FC1255161B00976E89;
+			remoteInfo = RestKitNetwork;
+		};
+		EFA54803136AACA300971EB8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EFA547EE136AACA300971EB8 /* RestKit.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 253A08031255162C00976E89;
+			remoteInfo = RestKitObjectMapping;
+		};
+		EFA54805136AACA300971EB8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EFA547EE136AACA300971EB8 /* RestKit.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 253A080C12551D3000976E89;
+			remoteInfo = RestKitSupport;
+		};
+		EFA54807136AACA300971EB8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EFA547EE136AACA300971EB8 /* RestKit.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2590E64F125231F600531FA8;
+			remoteInfo = "RestKitJSONParser+YAJL";
+		};
+		EFA54809136AACA300971EB8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EFA547EE136AACA300971EB8 /* RestKit.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2590E66B1252353700531FA8;
+			remoteInfo = "RestKitJSONParser+SBJSON";
+		};
+		EFA5480B136AACA300971EB8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EFA547EE136AACA300971EB8 /* RestKit.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 73057FD11331AD2E001908EE;
+			remoteInfo = "RestKitJSONParser+JSONKit";
+		};
+		EFA5480D136AACA300971EB8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EFA547EE136AACA300971EB8 /* RestKit.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 25BD43BD1340315800DBACDD;
+			remoteInfo = "RestKitXMLParser+Libxml";
+		};
+		EFA5480F136AACA300971EB8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EFA547EE136AACA300971EB8 /* RestKit.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 253A081412551D5300976E89;
+			remoteInfo = RestKitCoreData;
+		};
+		EFA54811136AACA300971EB8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EFA547EE136AACA300971EB8 /* RestKit.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2523360511E79F090048F9B4;
+			remoteInfo = RestKitThree20;
+		};
+		EFA54813136AACA300971EB8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EFA547EE136AACA300971EB8 /* RestKit.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 3F6C39A510FE5C95008F47C5;
+			remoteInfo = UISpec;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* EHRAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = EHRAppDelegate.h; path = Classes/EHRAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* EHRAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = EHRAppDelegate.m; path = Classes/EHRAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* EHR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EHR.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		28042007108E984D000629CD /* ProfilesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProfilesViewController.h; sourceTree = "<group>"; };
+		28042008108E984D000629CD /* ProfilesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProfilesViewController.m; sourceTree = "<group>"; };
+		280420B3108E9F58000629CD /* EHR.xcdatamodel */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = wrapper.xcdatamodel; path = EHR.xcdatamodel; sourceTree = "<group>"; };
+		280420C0108EA07E000629CD /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28A0AAE50D9B0CCF005BE974 /* EHR_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EHR_Prefix.pch; sourceTree = "<group>"; };
+		28AD735F0D9D9599002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* EHR-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "EHR-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		EF2AA2251369B6B3007F1618 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		EF2AA2271369B6B3007F1618 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		EF2AA2291369B6BF007F1618 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		EF51BA98136C8C8C00607DA0 /* MedicationTableCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MedicationTableCell.h; sourceTree = "<group>"; };
+		EF51BA99136C8C8C00607DA0 /* MedicationTableCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MedicationTableCell.m; sourceTree = "<group>"; };
+		EF5461011380084C00252F91 /* SettingsEditViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsEditViewController.h; sourceTree = "<group>"; };
+		EF5461021380084C00252F91 /* SettingsEditViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsEditViewController.m; sourceTree = "<group>"; };
+		EF5461041380086D00252F91 /* SettingsFormDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsFormDataSource.h; sourceTree = "<group>"; };
+		EF5461051380086D00252F91 /* SettingsFormDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsFormDataSource.m; sourceTree = "<group>"; };
+		EF5461071380088C00252F91 /* SettingsEditView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SettingsEditView.xib; sourceTree = "<group>"; };
+		EF68EE64137EB7BD0055B862 /* ResultCreateViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResultCreateViewController.h; sourceTree = "<group>"; };
+		EF68EE65137EB7BD0055B862 /* ResultCreateViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResultCreateViewController.m; sourceTree = "<group>"; };
+		EF68EE67137EB7D20055B862 /* ResultFormDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResultFormDataSource.h; sourceTree = "<group>"; };
+		EF68EE68137EB7D20055B862 /* ResultFormDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResultFormDataSource.m; sourceTree = "<group>"; };
+		EF68EE6A137EB7F00055B862 /* ResultCreateView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ResultCreateView.xib; sourceTree = "<group>"; };
+		EF68EE94137ECF5F0055B862 /* ResultTableCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResultTableCell.h; sourceTree = "<group>"; };
+		EF68EE95137ECF5F0055B862 /* ResultTableCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResultTableCell.m; sourceTree = "<group>"; };
+		EF68EEC3137ED5F90055B862 /* TDBadgedCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TDBadgedCell.h; sourceTree = "<group>"; };
+		EF68EEC4137ED5F90055B862 /* TDBadgedCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TDBadgedCell.m; sourceTree = "<group>"; };
+		EF68EEC7137EE1080055B862 /* UIView+Sizes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Sizes.h"; sourceTree = "<group>"; };
+		EF68EEC8137EE1080055B862 /* UIView+Sizes.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Sizes.m"; sourceTree = "<group>"; };
+		EF68EECB137EF7800055B862 /* medications.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = medications.png; sourceTree = "<group>"; };
+		EF68EECC137EF7800055B862 /* results.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = results.png; sourceTree = "<group>"; };
+		EF812701137E992D00D75B24 /* IBAForms.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = IBAForms.xcodeproj; path = Libraries/IBAForms/IBAForms.xcodeproj; sourceTree = "<group>"; };
+		EF812712137E995900D75B24 /* libIBAForms.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libIBAForms.a; sourceTree = SOURCE_ROOT; };
+		EF812742137EA0AD00D75B24 /* MedicationCreateViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MedicationCreateViewController.h; sourceTree = "<group>"; };
+		EF812743137EA0AD00D75B24 /* MedicationCreateViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MedicationCreateViewController.m; sourceTree = "<group>"; };
+		EF812748137EA43300D75B24 /* MedicationFormDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MedicationFormDataSource.h; sourceTree = "<group>"; };
+		EF812749137EA43300D75B24 /* MedicationFormDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MedicationFormDataSource.m; sourceTree = "<group>"; };
+		EF812754137EAD1D00D75B24 /* MedicationCreateView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MedicationCreateView.xib; sourceTree = "<group>"; };
+		EFA547A7136AA88500971EB8 /* Profile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Profile.h; sourceTree = "<group>"; };
+		EFA547A8136AA88500971EB8 /* Profile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Profile.m; sourceTree = "<group>"; };
+		EFA547A9136AA88500971EB8 /* Medication.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Medication.h; sourceTree = "<group>"; };
+		EFA547AA136AA88500971EB8 /* Medication.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Medication.m; sourceTree = "<group>"; };
+		EFA547AB136AA88500971EB8 /* Result.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Result.h; sourceTree = "<group>"; };
+		EFA547AC136AA88500971EB8 /* Result.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Result.m; sourceTree = "<group>"; };
+		EFA547EE136AACA300971EB8 /* RestKit.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RestKit.xcodeproj; path = Libraries/RestKit/RestKit.xcodeproj; sourceTree = "<group>"; };
+		EFA54A75136B011A00971EB8 /* MedicationsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MedicationsViewController.h; sourceTree = "<group>"; };
+		EFA54A76136B011A00971EB8 /* MedicationsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MedicationsViewController.m; sourceTree = "<group>"; };
+		EFA54A78136B012A00971EB8 /* ResultsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResultsViewController.h; sourceTree = "<group>"; };
+		EFA54A79136B012A00971EB8 /* ResultsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResultsViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF812713137E995900D75B24 /* libIBAForms.a in Frameworks */,
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */,
+				280420C1108EA07E000629CD /* CoreData.framework in Frameworks */,
+				EF2AA2261369B6B3007F1618 /* CFNetwork.framework in Frameworks */,
+				EF2AA2281369B6B3007F1618 /* SystemConfiguration.framework in Frameworks */,
+				EF2AA22A1369B6BF007F1618 /* MobileCoreServices.framework in Frameworks */,
+				EFA54815136AACA700971EB8 /* libRestKitCoreData.a in Frameworks */,
+				EFA54816136AACAA00971EB8 /* libRestKitJSONParserYAJL.a in Frameworks */,
+				EFA54817136AACAE00971EB8 /* libRestKitNetwork.a in Frameworks */,
+				EFA54818136AACAE00971EB8 /* libRestKitObjectMapping.a in Frameworks */,
+				EFA54819136AACB000971EB8 /* libRestKitSupport.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				EF812747137EA17300D75B24 /* ResultsViewController */,
+				EF68EE63137EB7910055B862 /* ResultCreateViewController */,
+				EF812746137EA16500D75B24 /* MedicationsViewController */,
+				EF812740137E9FFB00D75B24 /* MedicationCreateViewController */,
+				EF812745137EA15500D75B24 /* ProfilesViewController */,
+				EF5461001380082100252F91 /* SettingsViewController */,
+			);
+			name = Controllers;
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* EHR.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* EHRAppDelegate.h */,
+				1D3623250D0F684500981E51 /* EHRAppDelegate.m */,
+				EFA54794136AA6E900971EB8 /* Models */,
+				080E96DDFE201D6D7F000001 /* Controllers */,
+				EF51BA95136C8C6600607DA0 /* Cells */,
+				EF812714137E99AC00D75B24 /* Views */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+				EF2AA2251369B6B3007F1618 /* CFNetwork.framework */,
+				EF2AA2271369B6B3007F1618 /* SystemConfiguration.framework */,
+				EF2AA2291369B6BF007F1618 /* MobileCoreServices.framework */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				28A0AAE50D9B0CCF005BE974 /* EHR_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				EF68EECA137EF7800055B862 /* Images */,
+				8D1107310486CEB800E47090 /* EHR-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				EF68EEC6137EE1080055B862 /* Others */,
+				EF68EEC2137ED5F90055B862 /* TDBadgedCell */,
+				EF812712137E995900D75B24 /* libIBAForms.a */,
+				EF812701137E992D00D75B24 /* IBAForms.xcodeproj */,
+				EFA547EE136AACA300971EB8 /* RestKit.xcodeproj */,
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */,
+				280420C0108EA07E000629CD /* CoreData.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EF51BA95136C8C6600607DA0 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				EF51BA98136C8C8C00607DA0 /* MedicationTableCell.h */,
+				EF51BA99136C8C8C00607DA0 /* MedicationTableCell.m */,
+				EF68EE94137ECF5F0055B862 /* ResultTableCell.h */,
+				EF68EE95137ECF5F0055B862 /* ResultTableCell.m */,
+			);
+			name = Cells;
+			sourceTree = "<group>";
+		};
+		EF5461001380082100252F91 /* SettingsViewController */ = {
+			isa = PBXGroup;
+			children = (
+				EF5461011380084C00252F91 /* SettingsEditViewController.h */,
+				EF5461021380084C00252F91 /* SettingsEditViewController.m */,
+				EF5461041380086D00252F91 /* SettingsFormDataSource.h */,
+				EF5461051380086D00252F91 /* SettingsFormDataSource.m */,
+			);
+			name = SettingsViewController;
+			sourceTree = "<group>";
+		};
+		EF68EE63137EB7910055B862 /* ResultCreateViewController */ = {
+			isa = PBXGroup;
+			children = (
+				EF68EE64137EB7BD0055B862 /* ResultCreateViewController.h */,
+				EF68EE65137EB7BD0055B862 /* ResultCreateViewController.m */,
+				EF68EE67137EB7D20055B862 /* ResultFormDataSource.h */,
+				EF68EE68137EB7D20055B862 /* ResultFormDataSource.m */,
+			);
+			name = ResultCreateViewController;
+			sourceTree = "<group>";
+		};
+		EF68EEC2137ED5F90055B862 /* TDBadgedCell */ = {
+			isa = PBXGroup;
+			children = (
+				EF68EEC3137ED5F90055B862 /* TDBadgedCell.h */,
+				EF68EEC4137ED5F90055B862 /* TDBadgedCell.m */,
+			);
+			name = TDBadgedCell;
+			path = Libraries/TDBadgedCell;
+			sourceTree = "<group>";
+		};
+		EF68EEC6137EE1080055B862 /* Others */ = {
+			isa = PBXGroup;
+			children = (
+				EF68EEC7137EE1080055B862 /* UIView+Sizes.h */,
+				EF68EEC8137EE1080055B862 /* UIView+Sizes.m */,
+			);
+			name = Others;
+			path = Libraries/Others;
+			sourceTree = "<group>";
+		};
+		EF68EECA137EF7800055B862 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				EF68EECB137EF7800055B862 /* medications.png */,
+				EF68EECC137EF7800055B862 /* results.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		EF812702137E992D00D75B24 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EF812709137E992D00D75B24 /* libIBAForms.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EF812714137E99AC00D75B24 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				28AD735F0D9D9599002E5188 /* MainWindow.xib */,
+				EF812754137EAD1D00D75B24 /* MedicationCreateView.xib */,
+				EF68EE6A137EB7F00055B862 /* ResultCreateView.xib */,
+				EF5461071380088C00252F91 /* SettingsEditView.xib */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		EF812740137E9FFB00D75B24 /* MedicationCreateViewController */ = {
+			isa = PBXGroup;
+			children = (
+				EF812742137EA0AD00D75B24 /* MedicationCreateViewController.h */,
+				EF812743137EA0AD00D75B24 /* MedicationCreateViewController.m */,
+				EF812748137EA43300D75B24 /* MedicationFormDataSource.h */,
+				EF812749137EA43300D75B24 /* MedicationFormDataSource.m */,
+			);
+			name = MedicationCreateViewController;
+			sourceTree = "<group>";
+		};
+		EF812745137EA15500D75B24 /* ProfilesViewController */ = {
+			isa = PBXGroup;
+			children = (
+				28042007108E984D000629CD /* ProfilesViewController.h */,
+				28042008108E984D000629CD /* ProfilesViewController.m */,
+			);
+			name = ProfilesViewController;
+			sourceTree = "<group>";
+		};
+		EF812746137EA16500D75B24 /* MedicationsViewController */ = {
+			isa = PBXGroup;
+			children = (
+				EFA54A75136B011A00971EB8 /* MedicationsViewController.h */,
+				EFA54A76136B011A00971EB8 /* MedicationsViewController.m */,
+			);
+			name = MedicationsViewController;
+			sourceTree = "<group>";
+		};
+		EF812747137EA17300D75B24 /* ResultsViewController */ = {
+			isa = PBXGroup;
+			children = (
+				EFA54A78136B012A00971EB8 /* ResultsViewController.h */,
+				EFA54A79136B012A00971EB8 /* ResultsViewController.m */,
+			);
+			name = ResultsViewController;
+			sourceTree = "<group>";
+		};
+		EFA54794136AA6E900971EB8 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				2819300D112F7FA900ECF9B4 /* EHR.xcdatamodeld */,
+				EFA547A7136AA88500971EB8 /* Profile.h */,
+				EFA547A8136AA88500971EB8 /* Profile.m */,
+				EFA547A9136AA88500971EB8 /* Medication.h */,
+				EFA547AA136AA88500971EB8 /* Medication.m */,
+				EFA547AB136AA88500971EB8 /* Result.h */,
+				EFA547AC136AA88500971EB8 /* Result.m */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		EFA547EF136AACA300971EB8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EFA54802136AACA300971EB8 /* libRestKitNetwork.a */,
+				EFA54804136AACA300971EB8 /* libRestKitObjectMapping.a */,
+				EFA54806136AACA300971EB8 /* libRestKitSupport.a */,
+				EFA54808136AACA300971EB8 /* libRestKitJSONParserYAJL.a */,
+				EFA5480A136AACA300971EB8 /* libRestKitJSONParserSBJSON.a */,
+				EFA5480C136AACA300971EB8 /* libRestKitJSONParserJSONKit.a */,
+				EFA5480E136AACA300971EB8 /* libRestKitXMLParserLibxml.a */,
+				EFA54810136AACA300971EB8 /* libRestKitCoreData.a */,
+				EFA54812136AACA300971EB8 /* libRestKitThree20.a */,
+				EFA54814136AACA300971EB8 /* UISpec.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* EHR */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "EHR" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = EHR;
+			productName = EHR;
+			productReference = 1D6058910D05DD3D006BFB54 /* EHR.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "EHR" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				en,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = EF812702137E992D00D75B24 /* Products */;
+					ProjectRef = EF812701137E992D00D75B24 /* IBAForms.xcodeproj */;
+				},
+				{
+					ProductGroup = EFA547EF136AACA300971EB8 /* Products */;
+					ProjectRef = EFA547EE136AACA300971EB8 /* RestKit.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* EHR */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		EF812709137E992D00D75B24 /* libIBAForms.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libIBAForms.a;
+			remoteRef = EF812708137E992D00D75B24 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		EFA54802136AACA300971EB8 /* libRestKitNetwork.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libRestKitNetwork.a;
+			remoteRef = EFA54801136AACA300971EB8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		EFA54804136AACA300971EB8 /* libRestKitObjectMapping.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libRestKitObjectMapping.a;
+			remoteRef = EFA54803136AACA300971EB8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		EFA54806136AACA300971EB8 /* libRestKitSupport.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libRestKitSupport.a;
+			remoteRef = EFA54805136AACA300971EB8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		EFA54808136AACA300971EB8 /* libRestKitJSONParserYAJL.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libRestKitJSONParserYAJL.a;
+			remoteRef = EFA54807136AACA300971EB8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		EFA5480A136AACA300971EB8 /* libRestKitJSONParserSBJSON.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libRestKitJSONParserSBJSON.a;
+			remoteRef = EFA54809136AACA300971EB8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		EFA5480C136AACA300971EB8 /* libRestKitJSONParserJSONKit.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libRestKitJSONParserJSONKit.a;
+			remoteRef = EFA5480B136AACA300971EB8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		EFA5480E136AACA300971EB8 /* libRestKitXMLParserLibxml.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libRestKitXMLParserLibxml.a;
+			remoteRef = EFA5480D136AACA300971EB8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		EFA54810136AACA300971EB8 /* libRestKitCoreData.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libRestKitCoreData.a;
+			remoteRef = EFA5480F136AACA300971EB8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		EFA54812136AACA300971EB8 /* libRestKitThree20.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libRestKitThree20.a;
+			remoteRef = EFA54811136AACA300971EB8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		EFA54814136AACA300971EB8 /* UISpec.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = UISpec.app;
+			remoteRef = EFA54813136AACA300971EB8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */,
+				EF812755137EAD1D00D75B24 /* MedicationCreateView.xib in Resources */,
+				EF68EE6B137EB7F00055B862 /* ResultCreateView.xib in Resources */,
+				EF68EECD137EF7800055B862 /* medications.png in Resources */,
+				EF68EECE137EF7800055B862 /* results.png in Resources */,
+				EF5461081380088C00252F91 /* SettingsEditView.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* EHRAppDelegate.m in Sources */,
+				2804200B108E984D000629CD /* ProfilesViewController.m in Sources */,
+				2819300E112F7FA900ECF9B4 /* EHR.xcdatamodeld in Sources */,
+				EFA547AD136AA88500971EB8 /* Profile.m in Sources */,
+				EFA547AE136AA88500971EB8 /* Medication.m in Sources */,
+				EFA547AF136AA88500971EB8 /* Result.m in Sources */,
+				EFA54A77136B011A00971EB8 /* MedicationsViewController.m in Sources */,
+				EFA54A7A136B012A00971EB8 /* ResultsViewController.m in Sources */,
+				EF51BA9A136C8C8C00607DA0 /* MedicationTableCell.m in Sources */,
+				EF812744137EA0AD00D75B24 /* MedicationCreateViewController.m in Sources */,
+				EF81274A137EA43300D75B24 /* MedicationFormDataSource.m in Sources */,
+				EF68EE66137EB7BD0055B862 /* ResultCreateViewController.m in Sources */,
+				EF68EE69137EB7D20055B862 /* ResultFormDataSource.m in Sources */,
+				EF68EE96137ECF5F0055B862 /* ResultTableCell.m in Sources */,
+				EF68EEC5137ED5F90055B862 /* TDBadgedCell.m in Sources */,
+				EF68EEC9137EE1080055B862 /* UIView+Sizes.m in Sources */,
+				EF5461031380084C00252F91 /* SettingsEditViewController.m in Sources */,
+				EF5461061380086D00252F91 /* SettingsFormDataSource.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = Libraries/RestKit/Build;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = EHR_Prefix.pch;
+				HEADER_SEARCH_PATHS = (
+					"${SOURCE_ROOT}/Libraries/RestKit/Build",
+					"$(BUILT_PRODUCTS_DIR)/../headers",
+				);
+				INFOPLIST_FILE = "EHR-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
+				PRODUCT_NAME = EHR;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				FRAMEWORK_SEARCH_PATHS = Libraries/RestKit/Build;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = EHR_Prefix.pch;
+				HEADER_SEARCH_PATHS = (
+					"${SOURCE_ROOT}/Libraries/RestKit/Build",
+					"$(BUILT_PRODUCTS_DIR)/../headers",
+				);
+				INFOPLIST_FILE = "EHR-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
+				PRODUCT_NAME = EHR;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "EHR" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "EHR" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		2819300D112F7FA900ECF9B4 /* EHR.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				280420B3108E9F58000629CD /* EHR.xcdatamodel */,
+			);
+			currentVersion = 280420B3108E9F58000629CD /* EHR.xcdatamodel */;
+			path = EHR.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
