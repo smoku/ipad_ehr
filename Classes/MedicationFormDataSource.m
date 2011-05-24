@@ -24,7 +24,7 @@
                                                         @"Inhaled", 
                                                         @"To eyes", 
                                                         @"To skin", 
-                                                        @"To Nose", 
+                                                        @"To nose", 
                                                         nil];
         
         NSArray *dosesList = [NSArray arrayWithObjects:@"1/4", 

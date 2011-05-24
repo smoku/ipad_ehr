@@ -145,12 +145,13 @@
 					</object>
 					<string key="targetRuntimeIdentifier">IBIPadFramework</string>
 					<bool key="IBUIHorizontal">NO</bool>
-					<object class="IBUINavigationController" key="IBUISelectedViewController" id="831646343">
-						<object class="IBUITabBarItem" key="IBUITabBarItem" id="72600386">
-							<string key="IBUITitle">Medications</string>
+					<object class="IBUINavigationController" key="IBUISelectedViewController" id="493061805">
+						<object class="IBUITabBarItem" key="IBUITabBarItem" id="1045935987">
+							<int key="IBUITag">1</int>
+							<string key="IBUITitle">Results</string>
 							<object class="NSCustomResource" key="IBUIImage">
 								<string key="NSClassName">NSImage</string>
-								<string key="NSResourceName">medications.png</string>
+								<string key="NSResourceName">results.png</string>
 							</object>
 							<string key="targetRuntimeIdentifier">IBIPadFramework</string>
 						</object>
@@ -164,7 +165,7 @@
 						</object>
 						<string key="targetRuntimeIdentifier">IBIPadFramework</string>
 						<bool key="IBUIHorizontal">NO</bool>
-						<object class="IBUINavigationBar" key="IBUINavigationBar" id="158670015">
+						<object class="IBUINavigationBar" key="IBUINavigationBar" id="920524109">
 							<nil key="NSNextResponder"/>
 							<int key="NSvFlags">256</int>
 							<string key="NSFrameSize">{0, 0}</string>
@@ -175,8 +176,8 @@
 						</object>
 						<object class="NSMutableArray" key="IBUIViewControllers">
 							<bool key="EncodedWithXMLCoder">YES</bool>
-							<object class="IBUITableViewController" id="882365081">
-								<object class="IBUITableView" key="IBUIView" id="836366734">
+							<object class="IBUITableViewController" id="646138972">
+								<object class="IBUITableView" key="IBUIView" id="1058344322">
 									<reference key="NSNextResponder"/>
 									<int key="NSvFlags">274</int>
 									<string key="NSFrame">{{0, 44}, {703, 655}}</string>
@@ -196,18 +197,18 @@
 									<float key="IBUISectionHeaderHeight">22</float>
 									<float key="IBUISectionFooterHeight">22</float>
 								</object>
-								<object class="IBUINavigationItem" key="IBUINavigationItem" id="248142904">
+								<object class="IBUINavigationItem" key="IBUINavigationItem" id="648863245">
 									<reference key="IBUINavigationBar"/>
-									<string key="IBUITitle">Medications</string>
-									<object class="IBUIBarButtonItem" key="IBUIRightBarButtonItem" id="472846267">
+									<string key="IBUITitle">Results</string>
+									<object class="IBUIBarButtonItem" key="IBUIRightBarButtonItem" id="217283462">
 										<string key="targetRuntimeIdentifier">IBIPadFramework</string>
 										<int key="IBUIStyle">1</int>
-										<reference key="IBUINavigationItem" ref="248142904"/>
+										<reference key="IBUINavigationItem" ref="648863245"/>
 										<int key="IBUISystemItemIdentifier">4</int>
 									</object>
 									<string key="targetRuntimeIdentifier">IBIPadFramework</string>
 								</object>
-								<reference key="IBUIParentViewController" ref="831646343"/>
+								<reference key="IBUIParentViewController" ref="493061805"/>
 								<object class="IBUISimulatedStatusBarMetrics" key="IBUISimulatedStatusBarMetrics">
 									<int key="IBUIStatusBarStyle">2</int>
 								</object>
@@ -223,14 +224,12 @@
 					</object>
 					<object class="NSMutableArray" key="IBUIViewControllers">
 						<bool key="EncodedWithXMLCoder">YES</bool>
-						<reference ref="831646343"/>
-						<object class="IBUINavigationController" id="493061805">
-							<object class="IBUITabBarItem" key="IBUITabBarItem" id="1045935987">
-								<int key="IBUITag">1</int>
-								<string key="IBUITitle">Results</string>
+						<object class="IBUINavigationController" id="831646343">
+							<object class="IBUITabBarItem" key="IBUITabBarItem" id="72600386">
+								<string key="IBUITitle">Medications</string>
 								<object class="NSCustomResource" key="IBUIImage">
 									<string key="NSClassName">NSImage</string>
-									<string key="NSResourceName">results.png</string>
+									<string key="NSResourceName">medications.png</string>
 								</object>
 								<string key="targetRuntimeIdentifier">IBIPadFramework</string>
 							</object>
@@ -244,7 +243,7 @@
 							</object>
 							<string key="targetRuntimeIdentifier">IBIPadFramework</string>
 							<bool key="IBUIHorizontal">NO</bool>
-							<object class="IBUINavigationBar" key="IBUINavigationBar" id="920524109">
+							<object class="IBUINavigationBar" key="IBUINavigationBar" id="158670015">
 								<nil key="NSNextResponder"/>
 								<int key="NSvFlags">256</int>
 								<string key="NSFrameSize">{0, 0}</string>
@@ -255,8 +254,8 @@
 							</object>
 							<object class="NSMutableArray" key="IBUIViewControllers">
 								<bool key="EncodedWithXMLCoder">YES</bool>
-								<object class="IBUITableViewController" id="646138972">
-									<object class="IBUITableView" key="IBUIView" id="1058344322">
+								<object class="IBUITableViewController" id="882365081">
+									<object class="IBUITableView" key="IBUIView" id="836366734">
 										<nil key="NSNextResponder"/>
 										<int key="NSvFlags">274</int>
 										<string key="NSFrame">{{0, 44}, {703, 655}}</string>
@@ -271,17 +270,17 @@
 										<float key="IBUISectionHeaderHeight">22</float>
 										<float key="IBUISectionFooterHeight">22</float>
 									</object>
-									<object class="IBUINavigationItem" key="IBUINavigationItem" id="648863245">
-										<string key="IBUITitle">Results</string>
-										<object class="IBUIBarButtonItem" key="IBUIRightBarButtonItem" id="217283462">
+									<object class="IBUINavigationItem" key="IBUINavigationItem" id="248142904">
+										<string key="IBUITitle">Medications</string>
+										<object class="IBUIBarButtonItem" key="IBUIRightBarButtonItem" id="472846267">
 											<string key="targetRuntimeIdentifier">IBIPadFramework</string>
 											<int key="IBUIStyle">1</int>
-											<reference key="IBUINavigationItem" ref="648863245"/>
+											<reference key="IBUINavigationItem" ref="248142904"/>
 											<int key="IBUISystemItemIdentifier">4</int>
 										</object>
 										<string key="targetRuntimeIdentifier">IBIPadFramework</string>
 									</object>
-									<reference key="IBUIParentViewController" ref="493061805"/>
+									<reference key="IBUIParentViewController" ref="831646343"/>
 									<object class="IBUISimulatedStatusBarMetrics" key="IBUISimulatedStatusBarMetrics">
 										<int key="IBUIStatusBarStyle">2</int>
 									</object>
@@ -295,6 +294,7 @@
 								</object>
 							</object>
 						</object>
+						<reference ref="493061805"/>
 					</object>
 					<object class="IBUITabBar" key="IBUITabBar" id="1005272294">
 						<nil key="NSNextResponder"/>
